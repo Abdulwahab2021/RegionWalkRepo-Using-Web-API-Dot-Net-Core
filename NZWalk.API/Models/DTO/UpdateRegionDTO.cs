@@ -1,18 +1,11 @@
-﻿namespace NZWalk.API.Models.Domain
+namespace NZWalk.API.Models.DTO
 {
-    public class Region
+    public class UpdateRegionDTO
     {
-
-        public Guid Id { get; set; }
-
         public string Code { get; set; }
 
         public string RegionName { get; set; }
 
         public string? RegionImageUrl { get; set; }
-
-
-
-
     }
 }
