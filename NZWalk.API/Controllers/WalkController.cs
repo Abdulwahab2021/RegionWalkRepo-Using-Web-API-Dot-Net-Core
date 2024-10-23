@@ -33,5 +33,50 @@ namespace NZWalk.API.Controllers
 
             return Ok(result);
         }
+
+        [HttpGet]
+
+        public async Task<IActionResult> Get()
+        {
+            var result = await _walkRepository.GetAllAsync();
+            var walk = _mapper.Map<List<WalkDTO >> (result);
+            return Ok(walk);
+        }
+        //api/walk/id
+        [HttpGet]
+        [Route("{id:Guid}")]
+        public async Task<IActionResult> GetById([FromRoute] Guid id)
+        {
+            var walk = await _walkRepository.GetWalkById(id);
+            if (walk == null)
+            {
+                // it shows 4o4  error 
+                return NotFound();
+            }
+            else
+            {
+               var result=  _mapper.Map<WalkDTO>(walk);
+                return Ok(result);
+            }
+
+        }
+
+        [HttpPut]
+        [Route("{id:Guid}")]
+        public async Task<IActionResult> UpdateAsync([FromRoute] Guid id, UpdateWalkRequestDto updateWalkRequestDto)
+        {
+            var walkDomainModel = _mapper.Map<Walk>(updateWalkRequestDto);
+
+            var result= await _walkRepository.UpdateWalkAsync(id, walkDomainModel);
+
+            if(result == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return Ok(result);
+            }
+        }
     }
 }
