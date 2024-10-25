@@ -82,6 +82,7 @@ namespace NZWalk.API.Controllers
         //POST:http://localhost:portnumber/api/region
 
         [HttpPost]
+           [ValidateModel]
         public async Task<IActionResult> CreateRegion([FromBody]  AddRegionRequestDto addRegionRequestDto)
         {
             //var regionDomainModel = new Region()
@@ -116,6 +117,7 @@ namespace NZWalk.API.Controllers
 
         //Put:http://localhost:portnumber/api/region/{id}
         [HttpPut]
+           [ValidateModel]
         [Route("{id:Guid}")]
         public  async Task<IActionResult> UpdateRegion(Guid id, [FromBody] UpdateRegionDTO updateRegionDTO)
         {
