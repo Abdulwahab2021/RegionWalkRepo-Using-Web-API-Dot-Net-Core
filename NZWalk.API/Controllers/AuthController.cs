@@ -43,21 +43,31 @@ namespace NZWalk.API.Controllers
             return BadRequest("Some thing Went Wrong");
 
         }
-        [HttpPost]
-        [Route("Login")]
-        public async Task<IActionResult> Login([FromBody] LoginRequestDTO loginRequestDTO)
-        {
-            var user = await this._userManager.FindByEmailAsync(loginRequestDTO.UserName);
-            if (user != null)
-            {
-                var CheckPasswordResult = await this._userManager.CheckPasswordAsync(user, loginRequestDTO.Password);
-                    if (CheckPasswordResult)
-                {
+         [HttpPost]
+         [Route("Login")]
+         public async Task<IActionResult> Login([FromBody] LoginRequestDTO loginRequestDTO)
+         {
+             var user = await this._userManager.FindByEmailAsync(loginRequestDTO.UserName);
+             if (user != null)
+             {
+                 var CheckPasswordResult = await this._userManager.CheckPasswordAsync(user, loginRequestDTO.Password);
+                     if (CheckPasswordResult)
+                 {
+                     //Get roles for this user
+                     var roles = await this._userManager.GetRolesAsync(user);
+                     if (roles!=null)
+                     {
+                    var jwttoken= this._tokenRepository.CreateJWTToken(user, roles.ToList());
+                         var response = new LoginResponseDTO
+                         {
+                             JwtToken = jwttoken,
+                         };
 
-                    return Ok();
-                }
-            }
-            return BadRequest("Some thing Went Wrong");
-        }
+                     return Ok(response);
+                     }
+                 }
+             }
+             return BadRequest("Some thing Went Wrong");
+         }
     }
 }
