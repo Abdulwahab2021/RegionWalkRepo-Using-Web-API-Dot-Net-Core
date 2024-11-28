@@ -8,6 +8,36 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+    builder.Services.AddEndpointsApiExplorer();
+    builder.Services.AddSwaggerGen(option =>
+    {
+        option.SwaggerDoc("v1", new OpenApiInfo { Title = "NZ Walk API", Version = "v1" });
+        option.AddSecurityDefinition(JwtBearerDefaults.AuthenticationScheme, new OpenApiSecurityScheme
+        {
+            Name = "Authorization",
+            In =ParameterLocation.Header,
+            Type = SecuritySchemeType.Http,
+            Scheme=JwtBearerDefaults.AuthenticationScheme
+        });
+        option.AddSecurityRequirement(new OpenApiSecurityRequirement
+        {
+            {
+            new OpenApiSecurityScheme{
+            Reference= new OpenApiReference
+            {
+                Type=ReferenceType.SecurityScheme,
+                Id=JwtBearerDefaults.AuthenticationScheme
+
+
+            },
+            Scheme="Oauth2",
+            Name=JwtBearerDefaults.AuthenticationScheme,
+            In=ParameterLocation.Header
+            },
+            new List<string>()
+            }
+        });
+    });
 builder.Services.AddDbContext<NZWalkDbContext>(option =>
 option.UseSqlServer(builder.Configuration.GetConnectionString("NZWalkConnectionString")));
 builder.Services.AddScoped<IRegionRepository, SqlRegionRepository>();
