@@ -1,0 +1,2 @@
+Add-Migration "AuthDBContext" -Context NZWalksAuthDBContext
+update-database -context (DbContextName)

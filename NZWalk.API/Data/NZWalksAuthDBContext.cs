@@ -13,6 +13,7 @@ namespace NZWalk.API.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            base.OnModelCreating(builder);
             var ReaderRoleId = "eb549929-89f6-42a3-b50a-c8ad02074246";
             var WriterRoleId = "f921c816-2f1b-41f1-a94e-991c846b5d90";
             var roles = new List<IdentityRole>

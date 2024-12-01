@@ -180,3 +180,4 @@ D:\DotNetCore\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\NZWalk.API\bin\Debu
 D:\DotNetCore\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\NZWalk.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
 D:\DotNetCore\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\NZWalk.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\DotNetCore\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\NZWalk.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DotNetCore\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\NZWalk.API\obj\Debug\net8.0\NZWalk.API.sourcelink.json

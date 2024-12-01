@@ -3,32 +3,112 @@
   "WorkspaceRootPath": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\migrations\\20241129061405_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\migrations\\20241129061405_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\data\\nzwalkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\customactionfilters\\actionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\customactionfilters\\actionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\migrations\\nzwalksauthdb\\nzwalksauthdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\migrations\\nzwalksauthdb\\nzwalksauthdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\nzwalk.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\nzwalk.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\migrations\\20241026103033_walkchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\migrations\\20241026103033_walkchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\nzwalk.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -39,28 +119,8 @@
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\nzwalk.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\nzwalk.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\customactionfilters\\actionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\customactionfilters\\actionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\migrations\\20241019072713_addnzwalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\migrations\\20241019072713_addnzwalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|d:\\dotnetcore\\regionwalkrepo-using-web-api-dot-net-core-main\\nzwalk.api\\migrations\\20241026103033_walkchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AF1806-45EA-408F-BD51-FCFFF5037DD0}|NZWalk.API\\NZWalk.API.csproj|solutionrelative:nzwalk.api\\migrations\\20241026103033_walkchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,235 +186,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "NZWalk.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AQIAABMAAAAANDMzMzPjvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:50:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "NZWalk.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:44:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "NZWalk.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA/wCUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:36:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "NZWalk.API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:06:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalk.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:56:41.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Program.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Program.cs",
               "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Program.cs",
               "RelativeToolTip": "NZWalk.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "ViewState": "AQIAADoAAAAAZmZmZmYOwEEAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:09:09.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegionController.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\RegionController.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\RegionController.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\RegionController.cs",
-              "RelativeToolTip": "NZWalk.API\\Controllers\\RegionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:32:29.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NZWalksAuthDBContext.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
-              "RelativeToolTip": "NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAtwCIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T09:38:09.103Z",
+              "WhenOpened": "2024-11-02T16:09:09.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NZWalk.API.http",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.http",
-              "RelativeDocumentMoniker": "NZWalk.API\\NZWalk.API.http",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.http",
-              "RelativeToolTip": "NZWalk.API\\NZWalk.API.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-03T09:53:06.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WalkController.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\WalkController.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\WalkController.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\WalkController.cs",
-              "RelativeToolTip": "NZWalk.API\\Controllers\\WalkController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwDAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:19:34.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NZWalk.API",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.csproj",
-              "RelativeDocumentMoniker": "NZWalk.API\\NZWalk.API.csproj",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.csproj",
-              "RelativeToolTip": "NZWalk.API\\NZWalk.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-07T01:56:07.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "SqlRegionRepository.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\SqlRegionRepository.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\SqlRegionRepository.cs",
               "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\SqlRegionRepository.cs",
               "RelativeToolTip": "NZWalk.API\\Repositories\\SqlRegionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T15:50:05.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SqlWalkRepository.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\SqlWalkRepository.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\SqlWalkRepository.cs",
               "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\SqlWalkRepository.cs",
               "RelativeToolTip": "NZWalk.API\\Repositories\\SqlWalkRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAswDYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T15:56:33.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.json",
-              "RelativeDocumentMoniker": "NZWalk.API\\appsettings.json",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.json",
-              "RelativeToolTip": "NZWalk.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T07:19:07.971Z"
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalk.API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAA4AAADAmZmZmZkvwBoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:43:46.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\RegisterRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:45:25.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:29:16.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241129061405_Adding Images Table.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241129061405_Adding Images Table.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Migrations\\20241129061405_Adding Images Table.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241129061405_Adding Images Table.cs",
+              "RelativeToolTip": "NZWalk.API\\Migrations\\20241129061405_Adding Images Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:14:06.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageUploadRequestDTO.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\ImageUploadRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:50:05.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NZWalksAuthDBContext.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
+              "RelativeToolTip": "NZWalk.API\\Data\\NZWalksAuthDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgPRYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:38:09.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "NZWalkDbContext.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Data\\NZWalkDbContext.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Data\\NZWalkDbContext.cs",
               "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Data\\NZWalkDbContext.cs",
               "RelativeToolTip": "NZWalk.API\\Data\\NZWalkDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T07:19:13.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "NZWalk.API\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T15:56:41.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\IRegionRepository.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IRegionRepository.cs",
-              "RelativeToolTip": "NZWalk.API\\Repositories\\IRegionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T16:22:46.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "NZWalk.API\\appsettings.Development.json",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.Development.json",
-              "RelativeToolTip": "NZWalk.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T07:21:55.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Walk.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "NZWalk.API\\Models\\Domain\\Walk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:48:24.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ActionFilterAttribute.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
-              "RelativeToolTip": "NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:18:42.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20241026103033_walkChanges.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
-              "RelativeToolTip": "NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T10:30:33.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateRegionDTO.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
-              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
-              "ViewState": "AQIAAAMAAADAzMzMzMwmwA4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:57:00.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UpdateWalkRequestDto.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:35:02.605Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "AddWalkRequestDTO.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
-              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
-              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
-              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:56:53.766Z"
+              "WhenOpened": "2024-11-23T06:58:19.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AddRegionRequestDto.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\AddRegionRequestDto.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\AddRegionRequestDto.cs",
@@ -374,7 +393,198 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:03:37.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalk.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:15:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\RegionController.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "NZWalk.API\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:32:29.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NZWalksAuthDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\NZWalksAuthDB\\NZWalksAuthDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Migrations\\NZWalksAuthDB\\NZWalksAuthDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\NZWalksAuthDB\\NZWalksAuthDBContextModelSnapshot.cs",
+              "RelativeToolTip": "NZWalk.API\\Migrations\\NZWalksAuthDB\\NZWalksAuthDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:21:26.719Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "ActionFilterAttribute.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
+              "RelativeToolTip": "NZWalk.API\\CustomActionfilters\\ActionFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:18:42.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NZWalk.API\\appsettings.json",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.json",
+              "RelativeToolTip": "NZWalk.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T07:19:07.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WalkController.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\WalkController.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\WalkController.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\WalkController.cs",
+              "RelativeToolTip": "NZWalk.API\\Controllers\\WalkController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:19:34.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalk.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAAAsAAACgmZmZmZk0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:22:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NZWalk.API",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.csproj",
+              "RelativeDocumentMoniker": "NZWalk.API\\NZWalk.API.csproj",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.csproj",
+              "RelativeToolTip": "NZWalk.API\\NZWalk.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T01:56:07.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241026103033_walkChanges.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
+              "RelativeToolTip": "NZWalk.API\\Migrations\\20241026103033_walkChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:30:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NZWalk.API.http",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.http",
+              "RelativeDocumentMoniker": "NZWalk.API\\NZWalk.API.http",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.http",
+              "RelativeToolTip": "NZWalk.API\\NZWalk.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-03T09:53:06.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NZWalk.API\\appsettings.Development.json",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\appsettings.Development.json",
+              "RelativeToolTip": "NZWalk.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T07:21:55.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:48:24.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateRegionDTO.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\UpdateRegionDTO.cs",
+              "ViewState": "AQIAAAMAAADAzMzMzMwmwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:57:00.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateWalkRequestDto.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\UpdateWalkRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:35:02.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddWalkRequestDTO.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "ToolTip": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "RelativeToolTip": "NZWalk.API\\Models\\DTO\\AddWalkRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:56:53.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Mapping\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Mapping\\AutoMapperProfile.cs",
@@ -386,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "WalkDTO.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\WalkDTO.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\WalkDTO.cs",
@@ -398,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "20241019072713_AddNzWalk.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241019072713_AddNzWalk.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Migrations\\20241019072713_AddNzWalk.cs",
@@ -410,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "20241019073657_NzwalkUpdate.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Migrations\\20241019073657_NzwalkUpdate.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Migrations\\20241019073657_NzwalkUpdate.cs",
@@ -422,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Controllers\\WeatherForecastController.cs",
@@ -434,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "Region.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Region.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Region.cs",
@@ -446,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 38,
               "Title": "RegionShowDTO.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\DTO\\RegionShowDTO.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\DTO\\RegionShowDTO.cs",
@@ -458,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 39,
               "Title": "NZWalk.API.csproj",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\NZWalk.API.csproj",
               "RelativeDocumentMoniker": "NZWalk.API\\NZWalk.API.csproj",
@@ -470,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "D:\\DotNetCore\\RegionWalkRepo-Using-Web-API-Dot-Net-Core-main\\NZWalk.API\\Models\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "NZWalk.API\\Models\\Domain\\Difficulty.cs",
