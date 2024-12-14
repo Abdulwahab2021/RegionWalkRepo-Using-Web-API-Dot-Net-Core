@@ -29,6 +29,9 @@ namespace NZWalk.API.Controllers
         //Get:http://localhost:portnumber/api/region
         public async Task<IActionResult> GetAll()
         {
+            //logger.LogInformation("GetAllRegion Action Was Invoked");
+            //logger.LogWarning("this is a warning log");
+            //logger.LogError("This is a erroor log");
 
          var RegionsDomainModel= await   _regionRepository.GetAllAsync();
 
