@@ -8,6 +8,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+    var Logger = new LoggerConfiguration()
+        .WriteTo.Console()
+        .WriteTo.File("Logs/NzWalks_Log.txt",rollingInterval:RollingInterval.Minute)
+        .MinimumLevel.Warning()
+        .CreateLogger();
+    builder.Logging.ClearProviders();
+    builder.Logging.AddSerilog(Logger);
+    //builder.Logging.AddConsole();
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen(option =>
     {
